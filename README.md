@@ -4,7 +4,7 @@
 
 **IoT Developer | Full-Stack Engineer | AI-Driven Development Enthusiast**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.golchaworks.workers.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanetaku1)
 
 </div>
@@ -103,9 +103,7 @@ I'm a developer focused on building practical systems that solve real-world prob
 
 ## 📫 Contact
 
-- 💼 Portfolio: [your-portfolio-url.vercel.app](https://your-portfolio-url.vercel.app)
-- 📧 Email: your-email@example.com
-- 🐦 X/Twitter: [@your_handle](https://twitter.com/your_handle)
+- 💼 Portfolio: [portfolio.golchaworks.workers.dev](https://portfolio.golchaworks.workers.dev)
 
 ---
 
